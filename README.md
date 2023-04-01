@@ -1,6 +1,6 @@
 # Json-Parser
 
-Excerpts credit cards in .json files with their bins
+excerpts credit cards in .json files with their bins
 
  - it only extracts the bins of turkish credit cards
 #
