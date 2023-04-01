@@ -23,6 +23,9 @@ import org.apache.commons.io.FileUtils;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 
+/**
+ * @author ItzGonza
+ */
 public class JsonParser {
 	
 	private static final Pattern CARD_NUMBER = Pattern.compile("((?:(?:4\\d{3})|(?:5[1-5]\\d{2})|6(?:011|5[0-9]{2}))(?:-?|\\040?)(?:\\d{4}(?:-?|\\040?)){3}|(?:3[4,7]\\d{2})(?:-?|\\040?)\\d{6}(?:-?|\\040?)\\d{5})");
